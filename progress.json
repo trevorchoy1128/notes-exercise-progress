@@ -1518,11 +1518,11 @@
    "ch": "X31",
    "chZh": "家居用電",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-10"
   },
   {
    "code": "X31.2",
@@ -1531,11 +1531,11 @@
    "ch": "X31",
    "chZh": "家居用電",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-10"
   },
   {
    "code": "X31.3",
@@ -1544,11 +1544,11 @@
    "ch": "X31",
    "chZh": "家居用電",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-10"
   },
   {
    "code": "X32.1",
