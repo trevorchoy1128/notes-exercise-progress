@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "compulsory_total": 98,
- "notes_done_zh_en": 48,
+ "notes_done_zh_en": 51,
  "sections": [
   {
    "code": "A1.1",
@@ -829,11 +829,11 @@
    "ch": "C7",
    "chZh": "聲音",
    "book": "Book 3B",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-11"
   },
   {
    "code": "C7.2",
@@ -842,11 +842,11 @@
    "ch": "C7",
    "chZh": "聲音",
    "book": "Book 3B",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-11"
   },
   {
    "code": "C7.3",
@@ -855,11 +855,11 @@
    "ch": "C7",
    "chZh": "聲音",
    "book": "Book 3B",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-11"
   },
   {
    "code": "D1.1",
