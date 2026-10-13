@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-14",
  "compulsory_total": 98,
  "notes_done_zh_en": 51,
  "sections": [
@@ -1557,11 +1557,11 @@
    "ch": "X32",
    "chZh": "照明",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-14"
   },
   {
    "code": "X32.2",
@@ -1570,11 +1570,11 @@
    "ch": "X32",
    "chZh": "照明",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-14"
   },
   {
    "code": "X33.1",
