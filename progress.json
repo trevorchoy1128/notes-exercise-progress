@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "compulsory_total": 98,
  "notes_done_zh_en": 51,
  "sections": [
@@ -1583,11 +1583,11 @@
    "ch": "X33",
    "chZh": "建築和運輸業的能源效益",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-15"
   },
   {
    "code": "X33.2",
@@ -1596,11 +1596,11 @@
    "ch": "X33",
    "chZh": "建築和運輸業的能源效益",
    "book": "Book E3",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-15"
   },
   {
    "code": "X34.1",
