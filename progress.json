@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-26",
  "compulsory_total": 98,
  "notes_done_zh_en": 51,
  "sections": [
@@ -1635,11 +1635,11 @@
    "ch": "X41",
    "chZh": "人類視覺和光纖內窺鏡學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X41.2",
@@ -1648,11 +1648,11 @@
    "ch": "X41",
    "chZh": "人類視覺和光纖內窺鏡學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X41.3",
@@ -1661,11 +1661,11 @@
    "ch": "X41",
    "chZh": "人類視覺和光纖內窺鏡學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X42.1",
