@@ -1713,11 +1713,11 @@
    "ch": "X43",
    "chZh": "致電離輻射醫學影像學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X43.2",
@@ -1726,11 +1726,11 @@
    "ch": "X43",
    "chZh": "致電離輻射醫學影像學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X43.3",
@@ -1739,11 +1739,11 @@
    "ch": "X43",
    "chZh": "致電離輻射醫學影像學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   },
   {
    "code": "X43.4",
@@ -1752,11 +1752,11 @@
    "ch": "X43",
    "chZh": "致電離輻射醫學影像學",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-26"
   }
  ]
 }
