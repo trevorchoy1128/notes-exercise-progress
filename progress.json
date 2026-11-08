@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-09",
  "compulsory_total": 98,
- "notes_done_zh_en": 51,
+ "notes_done_zh_en": 63,
  "sections": [
   {
    "code": "A1.1",
@@ -452,11 +452,11 @@
    "ch": "B7",
    "chZh": "動量",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B7.2",
@@ -465,11 +465,11 @@
    "ch": "B7",
    "chZh": "動量",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B8.1",
@@ -478,11 +478,11 @@
    "ch": "B8",
    "chZh": "拋體運動",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B8.2",
@@ -491,11 +491,11 @@
    "ch": "B8",
    "chZh": "拋體運動",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B9.1",
@@ -504,11 +504,11 @@
    "ch": "B9",
    "chZh": "勻速圓周運動",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B9.2",
@@ -517,11 +517,11 @@
    "ch": "B9",
    "chZh": "勻速圓周運動",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B9.3",
@@ -530,11 +530,11 @@
    "ch": "B9",
    "chZh": "勻速圓周運動",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B10.1",
@@ -543,11 +543,11 @@
    "ch": "B10",
    "chZh": "引力",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "B10.2",
@@ -556,11 +556,11 @@
    "ch": "B10",
    "chZh": "引力",
    "book": "Book 2",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-02"
   },
   {
    "code": "C1.1",
@@ -868,11 +868,11 @@
    "ch": "D1",
    "chZh": "靜電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-09"
   },
   {
    "code": "D1.2",
@@ -881,11 +881,11 @@
    "ch": "D1",
    "chZh": "靜電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-09"
   },
   {
    "code": "D1.3",
@@ -894,11 +894,11 @@
    "ch": "D1",
    "chZh": "靜電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-09"
   },
   {
    "code": "D2.1",
@@ -1674,11 +1674,11 @@
    "ch": "X42",
    "chZh": "人類聽覺和超聲波掃描",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-27"
   },
   {
    "code": "X42.2",
@@ -1687,11 +1687,11 @@
    "ch": "X42",
    "chZh": "人類聽覺和超聲波掃描",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-27"
   },
   {
    "code": "X42.3",
@@ -1700,11 +1700,11 @@
    "ch": "X42",
    "chZh": "人類聽覺和超聲波掃描",
    "book": "Book E4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-10-27"
   },
   {
    "code": "X43.1",
