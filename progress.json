@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "compulsory_total": 98,
- "notes_done_zh_en": 70,
+ "notes_done_zh_en": 82,
  "sections": [
   {
    "code": "A1.1",
@@ -998,11 +998,11 @@
    "ch": "D4",
    "chZh": "家居電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D4.2",
@@ -1011,11 +1011,11 @@
    "ch": "D4",
    "chZh": "家居電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D4.3",
@@ -1024,11 +1024,11 @@
    "ch": "D4",
    "chZh": "家居電學",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D5.1",
@@ -1037,11 +1037,11 @@
    "ch": "D5",
    "chZh": "磁場",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D5.2",
@@ -1050,11 +1050,11 @@
    "ch": "D5",
    "chZh": "磁場",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D6.1",
@@ -1063,11 +1063,11 @@
    "ch": "D6",
    "chZh": "磁場產生的力",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D6.2",
@@ -1089,11 +1089,11 @@
    "ch": "D6",
    "chZh": "磁場產生的力",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D7.1",
@@ -1102,11 +1102,11 @@
    "ch": "D7",
    "chZh": "電磁感應",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D7.2",
@@ -1115,11 +1115,11 @@
    "ch": "D7",
    "chZh": "電磁感應",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D7.3",
@@ -1128,11 +1128,11 @@
    "ch": "D7",
    "chZh": "電磁感應",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D8.1",
@@ -1141,11 +1141,11 @@
    "ch": "D8",
    "chZh": "變壓器及輸電",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "D8.2",
@@ -1154,11 +1154,11 @@
    "ch": "D8",
    "chZh": "變壓器及輸電",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-12"
   },
   {
    "code": "E1.1",
