@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-11",
  "compulsory_total": 98,
- "notes_done_zh_en": 63,
+ "notes_done_zh_en": 70,
  "sections": [
   {
    "code": "A1.1",
@@ -907,11 +907,11 @@
    "ch": "D2",
    "chZh": "電流、電壓與電阻",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D2.2",
@@ -920,11 +920,11 @@
    "ch": "D2",
    "chZh": "電流、電壓與電阻",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D2.3",
@@ -933,11 +933,11 @@
    "ch": "D2",
    "chZh": "電流、電壓與電阻",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D2.4",
@@ -946,11 +946,11 @@
    "ch": "D2",
    "chZh": "電流、電壓與電阻",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D2.5",
@@ -959,11 +959,11 @@
    "ch": "D2",
    "chZh": "電流、電壓與電阻",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D3.1",
@@ -972,11 +972,11 @@
    "ch": "D3",
    "chZh": "實際電路",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D3.2",
@@ -985,11 +985,11 @@
    "ch": "D3",
    "chZh": "實際電路",
    "book": "Book 4",
-   "nZh": false,
-   "nEn": false,
+   "nZh": true,
+   "nEn": true,
    "eZh": false,
    "eEn": false,
-   "updated": ""
+   "updated": "2026-11-11"
   },
   {
    "code": "D4.1",
